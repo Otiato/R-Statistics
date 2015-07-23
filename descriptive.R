@@ -26,6 +26,11 @@ cor(c$speed, c$dist)
 #Writing summary stats to CSV
 speed<-c(summary(c$speed),sd(c$speed),length(c$speed))
 
+ompirt
+dir
+file
+write.csv(write.csv))
+
 
 dist<-c(summary(c$dist),sd(c$dist),length(c$dist))
 
